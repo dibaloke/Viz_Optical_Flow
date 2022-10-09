@@ -6,7 +6,7 @@ This project makes use of [OpenCV](https://opencv.org/) and [Streamlit](https://
 
 - Clone the repository
 - Make sure you have all the dependancies installed from requirments.txt
-- In addition, make sure you have a stable version of ffmpeg installed as ffmpeg is utilized to generate browser compatiable 
+- In addition, make sure you have a stable version of ffmpeg installed as ffmpeg is utilized to generate browser compatiable video
 - Run `` streamlit run app.py `` 
 ## Optical Flow From Webcam Input
 

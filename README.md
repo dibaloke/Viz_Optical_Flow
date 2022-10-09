@@ -16,3 +16,16 @@ Takes real time input from webcam and generates stream of Optical Flow.
 [Checkout how it works !](https://youtu.be/sk2q45UMneg)
 
 ## Optical Flow From Uploaded Video
+![](read_me_images/Video_Implementation1.png)
+
+
+Upload a video by selecting a file or by dragging and dropping.
+
+![](read_me_images/Video_Implementation2.png)
+
+Meta Data like Number of Frames, Video Duration, FPS will be shown.
+
+
+![](read_me_images/Video_Implementation3.png)
+
+[Check Out how it works](https://youtu.be/k4KqhUSRSuY)

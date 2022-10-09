@@ -2,7 +2,7 @@
 
 This project makes use of [OpenCV](https://opencv.org/) and [Streamlit](https://streamlit.io/) to Visualize Optical Flow from Webcam Input and Uploaded Video.
 
-## How to Run to model 
+## How to Run 
 
 - Clone the repository
 - Make sure you have all the dependancies installed from requirments.text
